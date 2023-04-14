@@ -1,0 +1,46 @@
+﻿  CommodityData.cpp
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(133): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(134): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(135): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(136): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(137): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(148): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(149): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(150): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(151): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(152): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(163): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(164): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(165): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(166): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(178): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(179): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(180): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(181): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(182): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(70): warning C4715: “CommoditySave”: 不是所有的控件路径都返回值
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(1346): warning C4715: “CommodityModify”: 不是所有的控件路径都返回值
+d:\coding\c++ project\超管（链表类）\超管（链表类）\commoditydata.cpp(1811): warning C4715: “CommoditySearch”: 不是所有的控件路径都返回值
+  LINK : 没有找到 D:\Coding\C++ Project\超管（链表类）\超管（链表类）\Debug\超市销售业绩信息管理系统（链表类）.exe 或上一个增量链接没有生成它；正在执行完全链接
+  超市销售业绩信息管理系统（链表类）.vcxproj -> D:\Coding\C++ Project\超管（链表类）\超管（链表类）\Debug\超市销售业绩信息管理系统（链表类）.exe

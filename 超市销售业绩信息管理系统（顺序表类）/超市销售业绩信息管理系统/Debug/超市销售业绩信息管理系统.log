@@ -1,0 +1,125 @@
+﻿生成启动时间为 2020-12-15 0:40:07。
+     1>项目“D:\Coding\C++ Project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\超市销售业绩信息管理系统.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\Coding\C++ Project\超市销售业绩信息管理系统\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\超市销售业绩信息管理系统.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\VS2010  (2)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CommodityData.cpp Help.cpp Main.cpp Menu.cpp Password.cpp StaffData.cpp
+         StaffData.cpp
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(103): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(107): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(108): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(109): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(110): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(111): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(112): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(113): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(201): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(202): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(203): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(300): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(301): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(302): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+         Password.cpp
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\password.cpp(34): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(277) : 参见“gets”的声明
+         Menu.cpp
+         Main.cpp
+         Help.cpp
+         CommodityData.cpp
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(108): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(112): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(113): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(114): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(115): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(116): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(117): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(118): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(119): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(120): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(121): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(122): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(236): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(237): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(238): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(239): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(240): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(353): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(354): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(355): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(356): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(357): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010  (2)\vc\include\string.h(105) : 参见“strcpy”的声明
+         正在生成代码...
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\commoditydata.cpp(101): warning C4715: “CommodityData::SaveFile”: 不是所有的控件路径都返回值
+     1>d:\coding\c++ project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\staffdata.cpp(96): warning C4715: “StaffData::SaveFile”: 不是所有的控件路径都返回值
+       Link:
+         e:\VS2010  (2)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Coding\C++ Project\超市销售业绩信息管理系统\Debug\超市销售业绩信息管理系统.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\超市销售业绩信息管理系统.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Coding\C++ Project\超市销售业绩信息管理系统\Debug\超市销售业绩信息管理系统.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Coding\C++ Project\超市销售业绩信息管理系统\Debug\超市销售业绩信息管理系统.lib" /MACHINE:X86 Debug\CommodityData.obj
+         Debug\Help.obj
+         Debug\Main.obj
+         Debug\Menu.obj
+         Debug\Password.obj
+         Debug\StaffData.obj
+         超市销售业绩信息管理系统.vcxproj -> D:\Coding\C++ Project\超市销售业绩信息管理系统\Debug\超市销售业绩信息管理系统.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Coding\C++ Project\超市销售业绩信息管理系统\Debug\超市销售业绩信息管理系统.exe;#1" /manifest "Debug\超市销售业绩信息管理系统.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\超市销售业绩信息管理系统.unsuccessfulbuild”。
+         正在对“Debug\超市销售业绩信息管理系统.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Coding\C++ Project\超市销售业绩信息管理系统\超市销售业绩信息管理系统\超市销售业绩信息管理系统.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:17.38
